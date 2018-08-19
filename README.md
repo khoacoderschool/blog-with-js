@@ -6,14 +6,14 @@ Time spent: **7** hours spent in total
 
 The following **required** functionalities are completed:
 
-* [ ] Use SweetAlert2 to handle click event on a button
-* [ ] Use justifiedGallery.js to create an image gallery (the first plugin is way too complicated to implement)
-* [ ] Integrate wanker.js for a screen width resizing alert
-* [ ] Integrate at least one of your favorite plugins
+* [x] Use SweetAlert2 to handle click event on a button
+* [x] Use justifiedGallery.js to create an image gallery (the first plugin is way too complicated to implement)
+* [x] Integrate wanker.js for a screen width resizing alert
+* [x] Integrate at least one of your favorite plugins
 
 The following **optional** features are implemented:
 
-* [ ]  Customize at least one of the required plugins
+* [x]  Customize at least one of the required plugins
 
 ## Video Walkthrough
 
